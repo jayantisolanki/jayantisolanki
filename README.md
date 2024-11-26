@@ -31,7 +31,17 @@ I'm **Jayanti Solanki**, a passionate **WordPress** and **Shopify Developer** wi
 - ⚡ **Fun fact**:  
   I enjoy blending creativity with code, always looking for innovative ways to solve problems and enhance the digital experience.  
 
-## 🛠️ My Tech Stack  
+## 🛠️ My Tech Stack
+<img align="left" alt="Shopify" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Shopify" width="26px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
+<img align="left" alt="Liquid" width="26px" src="https://d33wubrfki0l68.cloudfront.net/0880593e17581e11a586815f8e151514a5e6cc42/e7bfe/dist/img/icon11.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<br />
 
 ### WordPress  
 - Theme & Plugin Development  
